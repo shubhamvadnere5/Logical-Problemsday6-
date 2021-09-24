@@ -8,7 +8,7 @@ namespace LogicalProblemsDay6
 {
     class ReverseNumber
     {
-    
+
         static void Main(string[] args)
         {
             int n, sum = 0;
