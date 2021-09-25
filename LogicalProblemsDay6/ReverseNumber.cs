@@ -18,7 +18,7 @@ namespace LogicalProblemsDay6
             {
                 int num = n % 10; // num = 56 % 10 = 6  // num = 6
                 Reverse = Reverse * 10 + num; //  sum = 0*10+6 = 6 // sum = 6
-                n = n / 10; // n = 56/10 = 5.6 
+                n = n / 10; // n = 56/10 
             }
             Console.WriteLine("THE Reverse Of number is :" + Reverse);
             Console.ReadLine();
